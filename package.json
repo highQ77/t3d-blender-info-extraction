@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "app": "npx vite",
+    "py": "/Applications/Blender.app/Contents/MacOS/Blender scene.blend --background --python script.py "
+  },
+  "dependencies": {
+    "three": "^0.172.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7"
+  }
+}
